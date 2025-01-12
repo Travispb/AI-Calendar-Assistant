@@ -12,6 +12,29 @@
 
 ---
 
+### **Setup Instructions**
+
+Follow these steps to set up the AI Calendar Assistant on your local machine.
+
+---
+
+#### **Prerequisites**
+Before starting, ensure the following are installed:
+- **Python 3.10+**
+- A Google Cloud Project with OAuth 2.0 credentials.
+- OpenAI API Key.
+
+---
+
+#### **Step 1: Clone the Repository**
+1. Open your terminal and navigate to the folder where you want to clone the repository.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/Travispb/AI-Calendar-Assistant.git
+   cd AI-Calendar-Assistant
+
+---
+
 ## Screenshots
 1. **Main Application Interface**.
 2. **Event Creation** form.
@@ -19,4 +42,3 @@
 
 ## Future Suggestions/Improvements
 1. **Upload Images**: Add functionality to upload images which will automatically create events from their contents
-
