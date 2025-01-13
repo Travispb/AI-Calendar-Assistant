@@ -35,10 +35,5 @@ Before starting, ensure the following are installed:
 
 ---
 
-## Screenshots
-1. **Main Application Interface**.
-2. **Event Creation** form.
-3. **AI Query Results** window.
-
 ## Future Suggestions/Improvements
 1. **Upload Images**: Add functionality to upload images which will automatically create events from their contents
