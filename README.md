@@ -37,3 +37,4 @@ Before starting, ensure the following are installed:
 
 ## Future Suggestions/Improvements
 1. **Upload Images**: Add functionality to upload images which will automatically create events from their contents
+2. **Handle Event Notifications**: Add functionality to create notifications for events, such as a reminder 15 minutes before event start.
